@@ -1,5 +1,4 @@
-#include "pch.h"
-#include <SDKDDKVer.h>
+#include "framework.h"
 #include <ShObjIdl.h>
 
 ITaskbarList3* m_pTaskbarList = NULL;
