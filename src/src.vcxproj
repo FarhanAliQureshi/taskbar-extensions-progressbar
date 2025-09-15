@@ -157,6 +157,9 @@
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="TaskbarProgressbar.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="TaskbarProgressbar.def" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

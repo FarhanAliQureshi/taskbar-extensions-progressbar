@@ -1,0 +1,11 @@
+LIBRARY TaskbarProgressbar.dll
+EXPORTS
+	About
+	TaskbarInitialize
+	TaskbarRelease
+	TaskbarNoProgressbar
+	TaskbarIndeterminateProgressbar
+	TaskbarNormalProgressbar
+	TaskbarErrorProgressbar
+	TaskbarPauseProgressbar
+	TaskbarSetProgressValue
