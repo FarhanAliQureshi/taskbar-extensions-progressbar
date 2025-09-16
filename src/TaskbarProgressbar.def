@@ -1,4 +1,4 @@
-LIBRARY TaskbarProgressbar.dll
+LIBRARY TaskbarProgressbar
 EXPORTS
 	About
 	TaskbarInitialize
